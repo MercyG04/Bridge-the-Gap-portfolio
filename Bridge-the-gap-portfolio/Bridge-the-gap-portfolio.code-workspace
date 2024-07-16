@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Desktop/Bridge the gap website"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Bridge-the-gap-portfolio"
+	}
+}
